@@ -1,0 +1,170 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/* navigation bar */
+.navbar{
+  color: white;
+}
+.navbar-brand{
+
+  font-size: 4.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  font-family: 'Ubuntu', sans-serif;
+  padding: 0 15px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+.think{
+
+  color: white;
+  font-weight: bolder;
+  font-size: 6rem;
+  text-align: right;
+  position: absolute;
+  top: 50%;
+  left: 30%;
+
+}
+
+.nation{
+  color: white;
+  font-weight: bold;
+
+  text-align:center;
+  font-size: 3rem;
+  position: absolute;
+  top: 210%;
+  left: 30%;
+}
+
+.think1{
+
+  color: white;
+  font-weight: bolder;
+  font-size: 1.6rem;
+  text-align: right;
+  position: absolute;
+  top: 46%;
+  left: 30%;
+}
+
+.dates{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.2rem;
+  font-weight: bold;
+  position: absolute;
+  top: 235%;
+  right: 46%;
+  color: white;
+
+}
+
+/* abt hack */
+.logo{
+  float: left;
+}
+.logo2{
+  float: right;
+}
+.alpha-p{
+  font-size: 1.3rem;
+}
+#abt-hack{
+  background-color: #bc6ff1;
+  /* text-align: center; */
+  color: black;
+  padding: 6% 14%;
+}
+#abt-clg{
+  background-color: #52057b;
+  color: white;
+  padding: 6% 14%;
+}
+#abt-sp{
+  padding: 6% 14%;
+  text-align: center;
+}
+#track{
+  padding: 6% 14%;
+  text-align: center;
+  background-color: #ffe2e2;
+}
+.crd_bx{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.models{
+  padding: 20px;
+}
+.feni{
+  position: relative;
+  top: 60px;
+  right: 60px;
+
+}
+.by{
+  position: relative;
+  top: 60px;
+  left: 60px;
+}
+.dev{
+  position: relative;
+  top: 140px;
+  padding-bottom: 8%;
+}
+
+#FAQ{
+  background-color: #41aea9;
+  padding: 6% 14%;
+  /* text-align: center; */
+}
+
+.tab-s1 {
+  background-color: #fbf7f0;
+  color: #444;
+margin-top: 30px;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+
+}
+
+.tab-s12 {
+  background-color: #000000;
+  color: yellow;
+
+  padding: 18px;
+
+  width: 100%;
+  text-align: left;
+
+}
+
+#Footer{
+  background-color: #d9ecf2;
+}
+
+.feature_box{
+  padding: 5%;
+  text-align: left;
+}
+h3{
+  font-size: 1.4rem;
+  font-weight:900;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+  font-weight: bold;
+  line-height: 1.5;
+  font-size: 2.2rem;
+}
